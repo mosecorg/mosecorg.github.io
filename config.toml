@@ -7,9 +7,13 @@ title = "MOSEC"
 compile_sass = true
 
 # Whether to build a search index to be used later on by a JavaScript library
-build_search_index = true
+build_search_index = false
 
 theme = "adidoks"
+default_language = "en"
+taxonomies = [
+  {name = "authors"}, # Basic definition: no feed or pagination
+]
 
 [markdown]
 # Whether to do syntax highlighting
