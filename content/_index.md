@@ -28,11 +28,11 @@ title = "Pipelined stages"
 content = "Spawn multiple processes for pipelined stages to handle CPU/GPU/IO mixed workloads."
 
 [[extra.list]]
-title = "Monitoring metrics"
-content = "Monitoring the key metrics of the service to help you get better understanding of the current workload."
+title = "Do one thing well"
+content = "Focus on the online serving part, users can pay attention to the model performance and business logic."
 
 [[extra.list]]
-title = "Request validation"
-content = "Validate the request defined with <a href='https://pydantic-docs.helpmanual.io/'>Pydantic</a>."
+title = "Cloud native"
+content = "Compatible with Kubernetes and any other on-prem deployment strategies."
 
 +++
