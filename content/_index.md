@@ -32,7 +32,7 @@ title = "Do one thing well"
 content = "Focus on the online serving part, users can pay attention to the model performance and business logic."
 
 [[extra.list]]
-title = "Cloud native"
-content = "Compatible with Kubernetes and any other on-prem deployment strategies."
+title = "Cloud friendly"
+content = "Deigned to run in the cloud, with the model warmup, graceful shutdown, and Prometheus monitoring metrics, easily managed by Kubernetes or any container orchestration systems."
 
 +++
