@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mosecorg.github.io/sitemap.xml
